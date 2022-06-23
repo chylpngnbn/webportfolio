@@ -1,0 +1,89 @@
+*{
+font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+}
+
+
+#nav{
+	opacity: 50%;
+}
+
+
+#nav #logo{
+	margin-left: 10px;
+	height: 80px;
+	width: auto;
+}
+
+
+.bg-brown{
+	background-color: #9A846B;
+}
+
+#about {
+	background:
+	linear-gradient(
+
+		rgba(77, 31, 0, 0.75),
+		rgba(0, 0, 0, 0.75)
+		),
+
+	url(https://images.pexels.com/photos/9429448/pexels-photo-9429448.jpeg?cs=srgb&dl=pexels-monstera-9429448.jpg&fm=jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+#skills {
+	background:
+	linear-gradient(
+
+		rgba(77, 31, 0, 0.75),
+		rgba(0, 0, 0, 0.75)
+		),
+
+	url(https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?cs=srgb&dl=pexels-pixabay-414645.jpg&fm=jpg)	
+	;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+
+#landing{
+	background-image: url(https://images.pexels.com/photos/9429448/pexels-photo-9429448.jpeg?cs=srgb&dl=pexels-monstera-9429448.jpg&fm=jpg);
+	background-size: cover;
+}
+
+
+
+#header{
+	padding-top: 100px;
+}
+
+
+
+
+#contact {
+	background:
+	linear-gradient(
+
+		rgba(70, 31, 0, 0.75),
+		rgba(0, 0, 0, 0.75)
+		),
+
+	url(https://images.pexels.com/photos/373076/pexels-photo-373076.jpeg?cs=srgb&dl=pexels-pixabay-373076.jpg&fm=jpg)	;
+		background-attachment: fixed;
+}
+
+
+#gmap {
+	width: 100%;
+	display: block;
+	border: none;
+	height: 70vh;
+	border-radius: 10px;
+}
+
