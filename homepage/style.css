@@ -51,7 +51,6 @@ font-family: 'Montserrat', sans-serif;
 }
 
 
-
 #landing{
 	background-image: url(https://images.pexels.com/photos/9429448/pexels-photo-9429448.jpeg?cs=srgb&dl=pexels-monstera-9429448.jpg&fm=jpg);
 	background-size: cover;
@@ -79,6 +78,12 @@ font-family: 'Montserrat', sans-serif;
 	background-size: cover;
 }
 
+
+#carousel-gallery{
+	padding: 100px;
+    padding-top: 10px;
+
+}
 
 
 #contact {
